@@ -1,0 +1,41 @@
+DHAIRYA RESIDENCE — REVISED HOME VISUALIZATION
+
+START HERE
+Open Open-house-gallery.html in a current browser. Keep all files and subfolders together.
+This package uses local files and works offline; no internet connection or installation is needed for the gallery.
+
+WHAT IS INCLUDED
+- Open-house-gallery.html: responsive gallery, image enlargements, filters and video chapters.
+- Complete-house-walkthrough.mp4: 2 minutes 54 seconds, 1920 x 1080 Full HD, 24 frames per second, silent.
+- Photoreal-renders/: 12 PNG images illustrating proposed finished colours and materials.
+- Images/: 25 PNG views from the revised dimensioned 3D model.
+- Interactive-3D-viewer.html: interactive house model. Open in a current browser with 3D graphics enabled.
+- Dhairya-house-model.glb: portable 3D model for compatible 3D software; units are metres.
+- Revision-notes.md: confirmed dimensions and changes, and the remaining assumptions.
+- Solar-concept.md: proposed 3 kW solar layout, roof fit and household power considerations.
+- Third-party-license.txt: relevant software licence.
+
+VIEWING AND SAVING
+Select any gallery image to enlarge it; use the arrows to browse and Save image to keep a copy.
+Press Escape or select the close button to leave the enlarged view.
+Use the floor filters to browse the colour images.
+Play the video in the gallery, or open the MP4 directly in your video player.
+Select any of the 25 time chapters to jump to that space.
+If your browser cannot play the MP4, open it in a compatible video player.
+The notes are plain text in Markdown format and can also be read in a text editor.
+
+THE CONFIRMED REVISION
+Mumty rear bedroom: 14'4" x 9'8"; washroom: 7'0" x 4'4".
+Front tower clear inside height: 11'6"; rear room/washroom clear inside height: 10'6".
+Ground bathroom: full-area loft underside at 7'6"; thickness was not provided.
+Ground bathroom: wall-mounted WC, shower and diverter.
+First-floor front bathroom: Indian toilet, shower/diverter and geyser.
+First-floor rear bathroom: wall-mounted WC, diverter and geyser.
+Mumty washroom: Indian toilet and diverter.
+Solar: six nominal 500 W modules, totalling 3 kW, above the rear room and washroom.
+
+HOW TO READ THE VISUALS
+Photo-style renders are proposed finishes and may differ in small details from the model.
+The model and video use the confirmed plan dimensions and revisions. Remaining inferred opening offsets and other assumptions are described in Revision-notes.md.
+The imagery is not an as-built survey and does not certify every constructed detail.
+Solar mounting is illustrative. A 3 kW array does not guarantee continuous whole-house power or outage backup; see Solar-concept.md.
