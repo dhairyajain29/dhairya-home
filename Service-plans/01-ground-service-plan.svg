@@ -4,7 +4,7 @@
 <style>text{font-family:Arial,Helvetica,sans-serif} .endpoint{cursor:help}</style><rect width="1600" height="2160" fill="#faf9f5"/>
 <text x="70.00" y="70.00" font-size="23" fill="#86734f" font-weight="700" text-anchor="start">DHAIRYA  /  RESIDENCE</text>
 <text x="70.00" y="133.00" font-size="49" fill="#243f3d" font-weight="700" text-anchor="start">Ground floor</text>
-<text x="70.00" y="175.00" font-size="23" fill="#5f6d68" font-weight="400" text-anchor="start">Service point coordination · Revision 3 · September 2026</text>
+<text x="70.00" y="175.00" font-size="23" fill="#5f6d68" font-weight="400" text-anchor="start">Service point coordination · Revision 4 · September 2026</text>
 <text x="180.00" y="210.00" font-size="25" fill="#a37a35" font-weight="700" text-anchor="start">ELECTRICAL POINTS</text>
 <rect x="180" y="245" width="450" height="1200" fill="#d2d4ce" stroke="#4f625d" stroke-width="2"/>
 <rect x="190.000" y="1255.000" width="165.000" height="180.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
@@ -47,8 +47,12 @@
 <path d="M505.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
 <path d="M530.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
 <text x="487.50" y="1345.00" font-size="17" fill="#87948c" font-weight="500" text-anchor="middle">STAIR</text>
-<rect x="366.0" y="1362.5" width="63.0" height="60" fill="#e9f0ec" stroke="#497161" stroke-width="2"/>
-<text x="397.00" y="1398.50" font-size="18" fill="#35664f" font-weight="700" text-anchor="middle">WM</text>
+<rect x="514.125" y="1259.825" width="60.75" height="71.682" fill="#e9f0ec" stroke="#497161" stroke-width="2"/>
+<text x="544.12" y="1293.83" font-size="16" fill="#35664f" font-weight="700" text-anchor="middle">WM</text>
+<path d="M544.125,1304.825v17m-4,-5l4,5l4,-5" stroke="#35664f" stroke-width="1.8" fill="none"/>
+<rect x="576.9000000000001" y="1260.5" width="38.1" height="63.6" fill="#eadcc4" stroke="#8b7552" stroke-width="1.5"/>
+<text x="595.90" y="1294.50" font-size="11" fill="#756047" font-weight="700" text-anchor="middle">CAB</text>
+<rect x="513.0" y="1257.2" width="102.0" height="73.2" fill="none" stroke="#8b7552" stroke-width="1.2" stroke-dasharray="4 3"/>
 <text x="405.00" y="1479.00" font-size="18" fill="#65776f" font-weight="600" text-anchor="middle">FRONT / ROAD</text>
 <g class="endpoint"><title>G-E14 · Rear bedroom left bedside · socket · 2′6″ above finished floor</title>
 <path d="M298.80,256.10L164.00,259.00H156.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
@@ -86,49 +90,49 @@
 <text x="156.00" y="1395.50" font-size="18" fill="#a37a35" font-weight="700" text-anchor="end">G-E02</text>
 </g>
 <g class="endpoint"><title>G-E15 · Rear bedroom right bedside · socket · 2′6″ above finished floor</title>
-<path d="M502.80,256.10L646.00,233.80H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<path d="M502.80,256.10L646.00,246.65H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
 <circle cx="502.80" cy="256.10" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
-<text x="654.00" y="239.80" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E15</text>
+<text x="654.00" y="252.65" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E15</text>
 </g>
 <g class="endpoint"><title>G-E16 · Rear bedroom AC supply · isolator · 8′0″ above finished floor</title>
-<path d="M618.90,387.50L646.00,362.30H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<path d="M618.90,387.50L646.00,375.15H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
 <circle cx="618.90" cy="387.50" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
-<text x="654.00" y="368.30" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E16</text>
+<text x="654.00" y="381.15" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E16</text>
 </g>
 <g class="endpoint"><title>G-E12 · Wash utility socket · socket · 3′8″ above finished floor</title>
-<path d="M618.90,623.00L646.00,597.80H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<path d="M618.90,623.00L646.00,610.65H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
 <circle cx="618.90" cy="623.00" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
-<text x="654.00" y="603.80" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E12</text>
+<text x="654.00" y="616.65" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E12</text>
 </g>
 <g class="endpoint"><title>G-E10 · Kitchen wash access · switch · 4′6″ above finished floor</title>
-<path d="M618.90,735.50L646.00,710.30H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<path d="M618.90,735.50L646.00,723.15H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
 <circle cx="618.90" cy="735.50" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
-<text x="654.00" y="716.30" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E10</text>
+<text x="654.00" y="729.15" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E10</text>
 </g>
 <g class="endpoint"><title>G-E08 · Kitchen front counter · socket · 3′8″ above finished floor</title>
-<path d="M423.00,934.25L646.00,909.05H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<path d="M423.00,934.25L646.00,921.90H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
 <circle cx="423.00" cy="934.25" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
-<text x="654.00" y="915.05" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E08</text>
+<text x="654.00" y="927.90" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E08</text>
 </g>
 <g class="endpoint"><title>G-E09 · Kitchen front counter · socket · 3′8″ above finished floor</title>
-<path d="M466.50,934.25L646.00,937.05H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<path d="M466.50,934.25L646.00,949.90H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
 <circle cx="466.50" cy="934.25" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
-<text x="654.00" y="943.05" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E09</text>
+<text x="654.00" y="955.90" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E09</text>
 </g>
 <g class="endpoint"><title>G-E05 · Drawing general socket · socket · 2′6″ above finished floor</title>
-<path d="M618.90,987.50L646.00,965.05H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<path d="M618.90,987.50L646.00,977.90H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
 <circle cx="618.90" cy="987.50" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
-<text x="654.00" y="971.05" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E05</text>
+<text x="654.00" y="983.90" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E05</text>
 </g>
 <g class="endpoint"><title>G-E06 · Drawing AC supply · isolator · 8′0″ above finished floor</title>
-<path d="M618.90,1127.00L646.00,1101.80H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<path d="M618.90,1127.00L646.00,1114.65H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
 <circle cx="618.90" cy="1127.00" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
-<text x="654.00" y="1107.80" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E06</text>
+<text x="654.00" y="1120.65" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E06</text>
 </g>
-<g class="endpoint"><title>G-E17 · Washer switched socket · socket · 4′6″ above finished floor</title>
-<path d="M447.00,1434.20L646.00,1409.00H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
-<circle cx="447.00" cy="1434.20" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
-<text x="654.00" y="1415.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E17</text>
+<g class="endpoint"><title>G-E17 · Rear under-stair washer switched socket · socket · 3′5″ above finished floor</title>
+<path d="M618.00,1340.60L646.00,1328.25H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<circle cx="618.00" cy="1340.60" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
+<text x="654.00" y="1334.25" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E17</text>
 </g>
 <g class="endpoint"><title>G-E03 · Entrance door bell · bell · 4′6″ above finished floor</title>
 <path d="M430.80,1449.35L646.00,1437.00H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
@@ -177,8 +181,12 @@
 <path d="M1295.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
 <path d="M1320.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
 <text x="1277.50" y="1345.00" font-size="17" fill="#87948c" font-weight="500" text-anchor="middle">STAIR</text>
-<rect x="1156.0" y="1362.5" width="63.0" height="60" fill="#e9f0ec" stroke="#497161" stroke-width="2"/>
-<text x="1187.00" y="1398.50" font-size="18" fill="#35664f" font-weight="700" text-anchor="middle">WM</text>
+<rect x="1304.125" y="1259.825" width="60.75" height="71.682" fill="#e9f0ec" stroke="#497161" stroke-width="2"/>
+<text x="1334.12" y="1293.83" font-size="16" fill="#35664f" font-weight="700" text-anchor="middle">WM</text>
+<path d="M1334.125,1304.825v17m-4,-5l4,5l4,-5" stroke="#35664f" stroke-width="1.8" fill="none"/>
+<rect x="1366.9" y="1260.5" width="38.1" height="63.6" fill="#eadcc4" stroke="#8b7552" stroke-width="1.5"/>
+<text x="1385.90" y="1294.50" font-size="11" fill="#756047" font-weight="700" text-anchor="middle">CAB</text>
+<rect x="1303.0" y="1257.2" width="102.0" height="73.2" fill="none" stroke="#8b7552" stroke-width="1.2" stroke-dasharray="4 3"/>
 <text x="1195.00" y="1479.00" font-size="18" fill="#65776f" font-weight="600" text-anchor="middle">FRONT / ROAD</text>
 <g class="endpoint"><title>G-P04 · Common basin cold feed · water connection · 1′7″ above finished floor</title>
 <path d="M1120.00,684.20L954.00,684.20H946.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
@@ -186,44 +194,44 @@
 <text x="946.00" y="690.20" font-size="18" fill="#277e9c" font-weight="700" text-anchor="end">G-P04</text>
 </g>
 <g class="endpoint"><title>G-P02 · Wash area tap · utility tap · 2′7″ above finished floor</title>
-<path d="M1316.50,536.60L1436.00,513.20H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
+<path d="M1316.50,536.60L1436.00,536.60H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
 <circle cx="1316.50" cy="536.60" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
-<text x="1444.00" y="519.20" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P02</text>
+<text x="1444.00" y="542.60" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P02</text>
 </g>
 <g class="endpoint"><title>G-P03 · Wash area · floor drain · 0′0″ above finished floor</title>
-<path d="M1310.50,547.70L1436.00,541.20H1444.00" fill="none" stroke="#3a8569" stroke-width="1.15" opacity=".72"/>
+<path d="M1310.50,547.70L1436.00,564.60H1444.00" fill="none" stroke="#3a8569" stroke-width="1.15" opacity=".72"/>
 <circle cx="1310.50" cy="547.70" r="5.3" fill="#3a8569" stroke="#fff" stroke-width="1.5"/>
-<text x="1444.00" y="547.20" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">G-P03</text>
+<text x="1444.00" y="570.60" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">G-P03</text>
 </g>
 <g class="endpoint"><title>G-P06 · Common WC jet supply · water connection · 1′10″ above finished floor</title>
-<path d="M1277.80,552.50L1436.00,569.20H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
+<path d="M1277.80,552.50L1436.00,592.60H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
 <circle cx="1277.80" cy="552.50" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
-<text x="1444.00" y="575.20" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P06</text>
+<text x="1444.00" y="598.60" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P06</text>
 </g>
 <g class="endpoint"><title>G-P05 · Common toilet wet area · floor drain · 0′0″ above finished floor</title>
-<path d="M1195.40,663.40L1436.00,640.00H1444.00" fill="none" stroke="#3a8569" stroke-width="1.15" opacity=".72"/>
+<path d="M1195.40,663.40L1436.00,663.40H1444.00" fill="none" stroke="#3a8569" stroke-width="1.15" opacity=".72"/>
 <circle cx="1195.40" cy="663.40" r="5.3" fill="#3a8569" stroke="#fff" stroke-width="1.5"/>
-<text x="1444.00" y="646.00" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">G-P05</text>
+<text x="1444.00" y="669.40" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">G-P05</text>
 </g>
 <g class="endpoint"><title>G-P09 · Common toilet · diverter connections · 3′3″ above finished floor</title>
-<path d="M1195.40,680.90L1436.00,668.00H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
+<path d="M1195.40,680.90L1436.00,691.40H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
 <circle cx="1195.40" cy="680.90" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
-<text x="1444.00" y="674.00" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P09</text>
+<text x="1444.00" y="697.40" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P09</text>
 </g>
 <g class="endpoint"><title>G-P01 · Kitchen sink cold feed · water connection · 1′8″ above finished floor</title>
-<path d="M1364.20,933.50L1436.00,910.10H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
+<path d="M1364.20,933.50L1436.00,933.50H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
 <circle cx="1364.20" cy="933.50" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
-<text x="1444.00" y="916.10" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P01</text>
+<text x="1444.00" y="939.50" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P01</text>
 </g>
-<g class="endpoint"><title>G-P08 · Under-stair washing machine · washer waste standpipe · 2′2″ above finished floor</title>
-<path d="M1269.40,1432.40L1436.00,1409.00H1444.00" fill="none" stroke="#3a8569" stroke-width="1.15" opacity=".72"/>
-<circle cx="1269.40" cy="1432.40" r="5.3" fill="#3a8569" stroke="#fff" stroke-width="1.5"/>
-<text x="1444.00" y="1415.00" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">G-P08</text>
+<g class="endpoint"><title>G-P07 · Rear under-stair washer cold inlet · washing-machine cold inlet · 2′6″ above finished floor</title>
+<path d="M1408.00,1328.00L1436.00,1328.00H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
+<circle cx="1408.00" cy="1328.00" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
+<text x="1444.00" y="1334.00" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P07</text>
 </g>
-<g class="endpoint"><title>G-P07 · Washer cold inlet · washing-machine cold inlet · 2′6″ above finished floor</title>
-<path d="M1259.50,1433.90L1436.00,1437.00H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
-<circle cx="1259.50" cy="1433.90" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
-<text x="1444.00" y="1443.00" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P07</text>
+<g class="endpoint"><title>G-P08 · Rear under-stair washing machine · washer waste standpipe · 2′2″ above finished floor</title>
+<path d="M1402.90,1335.20L1436.00,1356.00H1444.00" fill="none" stroke="#3a8569" stroke-width="1.15" opacity=".72"/>
+<circle cx="1402.90" cy="1335.20" r="5.3" fill="#3a8569" stroke="#fff" stroke-width="1.5"/>
+<text x="1444.00" y="1362.00" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">G-P08</text>
 </g>
 <text x="70.00" y="1520.00" font-size="20" fill="#a37a35" font-weight="700" text-anchor="start">POINT KEY</text>
 <text x="730.00" y="1520.00" font-size="17" fill="#6b7c73" font-weight="600" text-anchor="end">HEIGHT*</text>
@@ -292,8 +300,8 @@
 <text x="730.00" y="1980.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">8′0″</text>
 <path d="M70,1992h670" stroke="#e0e4dc" stroke-width="1"/>
 <text x="70.00" y="2008.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">G-E17</text>
-<text x="161.00" y="2008.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Washer switched socket · socket</text>
-<text x="730.00" y="2008.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">4′6″</text>
+<text x="161.00" y="2008.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Rear under-stair washer switched socket · socket</text>
+<text x="730.00" y="2008.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">3′5″</text>
 <path d="M70,2020h670" stroke="#e0e4dc" stroke-width="1"/>
 <text x="860.00" y="1520.00" font-size="20" fill="#277e9c" font-weight="700" text-anchor="start">POINT KEY</text>
 <text x="1520.00" y="1520.00" font-size="17" fill="#6b7c73" font-weight="600" text-anchor="end">HEIGHT*</text>
@@ -326,11 +334,11 @@
 <text x="1520.00" y="1728.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">3′3″</text>
 <path d="M860,1740h670" stroke="#e0e4dc" stroke-width="1"/>
 <text x="860.00" y="1756.00" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">G-P07</text>
-<text x="951.00" y="1756.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Washer cold inlet · cold inlet</text>
+<text x="951.00" y="1756.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Rear under-stair washer cold inlet · cold inlet</text>
 <text x="1520.00" y="1756.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">2′6″</text>
 <path d="M860,1768h670" stroke="#e0e4dc" stroke-width="1"/>
 <text x="860.00" y="1784.00" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">G-P08</text>
-<text x="951.00" y="1784.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Washer · waste</text>
+<text x="951.00" y="1784.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Rear under-stair washing machine · waste</text>
 <text x="1520.00" y="1784.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">2′2″</text>
 <path d="M860,1796h670" stroke="#e0e4dc" stroke-width="1"/>
 <text x="70.00" y="2084.00" font-size="19" fill="#65766c" font-weight="400" text-anchor="start">* Heights are above the relevant finished floor. Horizontal endpoint positions are proposals.</text>

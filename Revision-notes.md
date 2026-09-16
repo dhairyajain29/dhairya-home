@@ -1,8 +1,8 @@
-# Dhairya Residence — revised design, V3
+# Dhairya Residence — design notes, V4
 
-## This update
+## Current design
 
-The house now includes visible switch, socket and plumbing points; an under-stair washing machine; refined interior mouldings and bathroom storage; a new road-facing gate; a 2-foot chhaja around all exposed rear-roof sides; and a raised glass cover over the duct. The gallery offers day/night exterior comparisons, coloured interior previews, a 60 fps walkthrough and an interactive viewer with lighting and service-point controls.
+The house includes visible switch, socket and plumbing points; a laundry at the back of the ground-floor stair bay with a washing machine and clothes cabinet beneath a folding counter; refined interior mouldings and bathroom storage; the new road-facing gate; a 2-foot rear-roof chhaja toward the open terrace, ending at the marked dotted line; and a raised glass cover over the duct. The gallery offers day/night exterior comparisons, coloured interior previews, a 60 fps walkthrough and an interactive viewer with lighting and service-point controls.
 
 The wooden porch-to-drawing-room entrance has not been redesigned. The road-facing gate alone receives walnut vertical slats, dark privacy backing and slim bronze framing and handles.
 
@@ -51,17 +51,19 @@ Bathrooms show floating wood counters with white vessel basins, fluted backdrops
 
 ## Electrical, plumbing and laundry
 
-There are **63 named service points: 36 electrical and 27 plumbing**. Physical plates and fittings are visible in the model. The viewer's Service points button adds labels; three printable service sheets and a searchable schedule identify their functions and heights.
+There are **63 named service points: 36 electrical and 27 plumbing**. Physical plates and fittings are visible in the model. The viewer's Service points button adds labels; three printable service sheets and a filterable schedule identify their functions and heights.
 
 The supplied service drawing's mounting-height schedule is retained where applicable. Exact horizontal offsets, new mumty points, washer services and unprovided fitting heights are proposed coordinates. The points are coordination aids, not a complete cable/pipe routing or electrical design. Geyser controls are shown outside the two first-floor wet rooms.
 
-The front-load washer faces into the porch under the upper stair return. Its closed assembly occupies approximately X5.913–8.303 ft and depth 0.737–2.763 ft; top elevation +3.807 ft. The lowest modeled stair underside over it is +9.434 ft. The machine clears the original porch boundary and ascending flight. The cold supply, drain and power point are shown beside it; final connections depend on the selected appliance.
+The laundry sits in the deepest usable rear-right pocket of the ground-floor stair bay, facing forward into the access aisle. One front-loading washer sits beneath a walnut folding counter, beside an ivory cabinet and open cubby for washed, folded clothes. A slim warm task light illuminates the worktop. This is a recessed utility pocket with reduced headroom, reached from the higher front aisle.
+
+The closed washer occupies approximately X11.138–13.163 ft and plan depth 3.783–6.173 ft. The counter occupies X11.10–14.50 ft and depth 3.82–6.26 ft; its top is about 3′0½″ above the porch floor. The lowest modeled stair underside over the counter leaves approximately 2.2″ of vertical clearance. The original stair geometry is retained. Cold supply, waste and power points are grouped on the side wall; the selected appliance will determine final fitting gaps and connections.
 
 ## Chhaja, duct glass and solar
 
-The rear room/washroom roof now projects **2′ around all exposed sides**, while the full original duct aperture remains free of opaque slab. Its widest roof extent is **19′**, over unchanged **15′-wide walls**. The model establishes geometry only; actual property boundaries and cantilever support are not confirmed.
+The rear room/washroom roof extends **2′ toward the open terrace only**, ending at the black dotted line in the annotated plan. This canopy spans the left passage and washroom frontage. The roof covers the passage beside the washroom, and its side and rear edges stay flush with the **15′ × 40′ house boundary**. The full original duct aperture remains free of opaque slab. The existing front tower chhaja is retained. The modeled geometry does not establish cantilever support or reinforcement.
 
-A slim framed glass canopy covers the duct with a small oversail and an open perimeter ventilation gap. The visual proposal uses an 8″–11″ gap and a gentle slope. This preserves daylight and airflow; support, rain protection and glass specification still require detailed coordination. The three shown supports/frame are illustrative.
+A slim framed glass canopy covers the duct with a small lap over its own walls and an open perimeter ventilation gap, entirely within the house footprint. The visual proposal uses an 8″–11″ gap and a gentle slope. This preserves daylight and airflow; support, rain protection and glass specification still require detailed coordination. The three shown supports/frame are illustrative.
 
 Six nominal 500 W panels remain above the rear room/washroom: **3 kWp total**. Their positions remain over the original supporting roof area; the chhaja is not treated as new verified solar support. See Solar-concept.md for the retained installation assumptions. Whole-house energy sufficiency has not been established.
 

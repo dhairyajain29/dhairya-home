@@ -1,27 +1,29 @@
-# Electrical and plumbing points — revision 3
+# Electrical and plumbing points — revision 4
 
-The switchboards, sockets, valves and drains are visible 3D details. Turn on **Service points** in the viewer to identify the endpoints. The schedule follows the supplied service-plan zones and uses its printed switch mounting heights. Precise horizontal positions and all additions for the revised mumty/washer are proposed coordination locations.
+The switchboards, sockets, valves and drains are visible 3D details. Turn on **Service points** in the viewer to identify the endpoints. The schedule follows the supplied service-plan zones and uses its printed switch mounting heights except the revised washer socket, whose position is adapted to the unchanged stair. Precise horizontal positions and additions for the mumty/washer remain proposed coordination locations.
 
-## Ground-floor washing machine
+## Rear under-stair laundry
 
-- Front-loading machine under the upper stair return, facing left into the porch.
-- Proposed body: X 6.20–8.30 ft, plan depth 0.75–2.75 ft; floor at +1.00 ft. Nominal size: 2 ft wide × 2.1 ft deep × 2.8 ft high.
-- The fixed appliance, including its closed door, stays beyond X 5 ft 10 in, so the porch and ascending stair remain clear. The door swings into the porch only during loading.
-- The modeled stair underside above this appliance is at least +9.434 ft; nominal appliance top is +3.80 ft.
-- Added accessible switched socket, cold-water isolation tap and waste standpipe. Hose paths stay behind/right of the appliance. Final trap, outlet route and hose height must match the selected washing machine and installed drainage.
+- One front-loading washer sits at the backmost usable rear-right pocket of the ground-floor staircase, facing forward toward the aisle below the high return flight.
+- Its closed rendered bounds are X11.1375–13.1625 ft and plan-depth3.7831–6.1725 ft. Floor level is+1.00 ft above road; the appliance top is+3.8075 ft. Nominal appliance size is2 ft wide ×2.1 ft deep ×2.8 ft high.
+- A shared light-walnut counter spans X11.10–14.50 ft and plan-depth3.82–6.26 ft. Countertop level is+4.04 ft, or3.04 ft above the porch floor.
+- The narrow ivory cabinet beside the washer has an upper cupboard and a lower open cubby for folded washed clothes. There is one washer only. A slim warm light sits along the rear counter upstand.
+- The lowest stair underside over the counter is+4.2237 ft. Counter clearance is approximately2.20 inches; clearance over the appliance itself is approximately4.99 inches. Higher rear upstand and cabinet details sit below the higher winder portions.
+- The rear loading niche has reduced headroom. Its approach is from the front under-stair aisle; it is not a standing-height utility room. The fixed furniture remains beneath the unchanged treads and outside the porch circulation area.
+- The washer switched socket, cold isolation tap and waste standpipe move to the side of the rear niche. Hose paths stay within the stair enclosure. Final appliance clearances, trap, hose height, electrical protection and routes must match the selected products and installed services.
 
 ## Mounting heights
 
-The source service schedule (PDF page 8) gives SB1 switches 4 ft 6 in, SB2 counter boards 3 ft 8 in, SB3 low/bedside boards 2 ft 6 in, AC points 8 ft, distribution board 7 ft and bell 4 ft 6 in, all above the relevant finished floor. The two geyser isolators are shown outside the wet rooms at 4 ft 6 in as proposed accessible controls; the existing geysers stay at their source 8 ft mounting zone.
+The source service schedule (PDF page8) gives SB1 switches4 ft6 in, SB2 counter boards3 ft8 in, SB3 low/bedside boards2 ft6 in, AC points8 ft, distribution board7 ft and bell4 ft6 in above the relevant finished floor. The revised washer socket centre is proposed at3.45 ft above the porch floor to fit below the existing stair. The two geyser isolators remain outside the wet rooms at4 ft6 in as proposed accessible controls.
 
 ## Coordination notes
 
-- No room dimensions, columns, windows, doors or stair sizes were changed by these service additions.
-- Ordinary sockets/isolators are outside the shower zones. Electrical circuits, protection, cable sizes, bonding, wet-area zoning and final placement need the electrical contractor’s review.
-- Bathroom cold/hot connection points align with the visual fittings. Pipe routes inside walls and slab, pipe sizes, traps and slopes are not designed here.
-- Ground bathroom ventilation above the new loft still needs to be resolved with the project designer.
-- The original terrace tap zone is occupied by the revised rear-room addition; its illustrated tap/drain are moved to the exposed terrace beside the duct, pending actual drainage coordination.
-- The hot-water basin outlets on first floor are design proposals; the user specified geysers, but did not supply a new hot-water pipe layout.
+- All60 unrelated service points retain their preceding positions and metadata. Only washer points G-E17, G-P07 and G-P08 move.
+- Room dimensions, columns, windows, doors and staircase dimensions remain unchanged. The counter/cabinet are proposed furniture dimensions.
+- Ordinary sockets/isolators remain outside the bathroom shower zones. Electrical circuits, protection, cable sizes, bonding and final placement need contractor coordination.
+- Bathroom outlets align with the visual fittings. Concealed pipe routes, pipe sizes, traps and slopes are not designed here.
+- Ground bathroom ventilation above the loft still needs to be resolved with the project designer.
+- The illustrated terrace tap/drain stay beside the duct, pending actual drainage coordination. First-floor basin hot-water feeds remain proposals.
 
 ## Point schedule
 
@@ -87,6 +89,6 @@ The source service schedule (PDF page 8) gives SB1 switches 4 ft 6 in, SB2 count
 | F-P11 | first / Front geyser | geyser cold/hot connection pair | 14.597 / 23.870 | 6.800 | User fixture selection; connections on already-modeled fixture |
 | F-P12 | first / Rear geyser | geyser cold/hot connection pair | 10.313 / 25.403 | 6.800 | User fixture selection; connections on already-modeled fixture |
 | M-P06 | terrace / Mumty toilet | diverter connections | 8.043 / 25.470 | 3.285 | User fixture selection; connections on already-modeled fixture |
-| G-E17 | ground / Washer switched socket | socket | 8.900 / 0.360 | 4.500 | User washer addition; proposed dry accessible point |
-| G-P07 | ground / Washer cold inlet | washing-machine cold inlet | 9.650 / 0.370 | 2.500 | User washer addition; proposed isolation tap |
-| G-P08 | ground / Under-stair washing machine | washer waste standpipe | 9.980 / 0.420 | 2.160 | User washer addition; proposed standpipe connection |
+| G-E17 | ground / Rear under-stair washer switched socket | socket | 14.600 / 3.480 | 3.450 | User rear washer revision; proposed accessible dry side point |
+| G-P07 | ground / Rear under-stair washer cold inlet | washing-machine cold inlet | 14.600 / 3.900 | 2.500 | User rear washer revision; proposed isolation tap beside cabinet |
+| G-P08 | ground / Rear under-stair washing machine | washer waste standpipe | 14.430 / 3.660 | 2.160 | User rear washer revision; proposed standpipe beside cabinet |
