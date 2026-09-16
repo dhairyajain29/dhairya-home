@@ -1,12 +1,14 @@
-DHAIRYA RESIDENCE — V4
+DHAIRYA RESIDENCE — V5
 
 Open Open-house-gallery.html for the complete house website.
 Website: https://dhairyajain29.github.io/dhairya-home/
 
+Facade: the supplied original elevation is restored throughout the model and facade previews. White frames, silver-grey stone, charcoal cladding, wood soffits, original balcony treatment and warm facade lighting are retained.
+Road gate: original silver-grey horizontal panel design, two black handles and ornamental Jai Jinendra transom; confirmed opening 7 feet 4 inches and pier 8 inches. The wooden porch entrance is unchanged.
 Rear roof: 2-foot chhaja toward the open terrace to the marked dotted line; side and rear edges remain within the house boundary. The original front tower chhaja stays unchanged.
 Laundry: one washer at the back of the ground-floor stair bay, with a folding counter and cabinet for washed clothes.
 
-17 photo-style colour previews; 33 dimension-controlled model views.
+17 colour finish previews; 33 dimension-controlled model views.
 Complete-house-walkthrough.mp4: 3 minutes 55 seconds, Full HD, 60 fps, silent.
 Interactive-3D-viewer.html: standalone offline viewer; choose a room, switch day/night or show service points. Drag to look, scroll to zoom, arrow keys to move.
 Dhairya-house-model.glb: portable 3D model in metres.
@@ -15,4 +17,4 @@ Service-points.json and Service-points.md: 63 named endpoints, functions and hei
 Revision-notes.md: confirmed dimensions, design changes and remaining detail assumptions.
 Solar-concept.md: 3 kWp spatial concept and unresolved system requirements.
 
-Photo-style images show finishes, not measurement evidence. Use the controlled model and source drawings for geometry. Keep this folder together for offline use.
+The supplied elevation governs the facade appearance. Finish previews are not dimensioned drawings or measurement evidence. Use the controlled model and source drawings for geometry. Keep this folder together for offline use.
