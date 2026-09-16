@@ -1,66 +1,76 @@
-# Dhairya Residence — revised home visualization
+# Dhairya Residence — revised design, V3
 
-## What changed
+## This update
 
-The updated model adds your **mumty-floor rear room and washroom**, the **3 kW solar concept**, the specified bathroom fittings, and the ground-floor bathroom loft. Your construction photographs inform the building’s appearance. The interior colours, furniture and finishes are proposed designs.
+The house now includes visible switch, socket and plumbing points; an under-stair washing machine; refined interior mouldings and bathroom storage; a new road-facing gate; a 2-foot chhaja around all exposed rear-roof sides; and a raised glass cover over the duct. The gallery offers day/night exterior comparisons, coloured interior previews, a 60 fps walkthrough and an interactive viewer with lighting and service-point controls.
 
-The **15′ × 40′ footprint**, retained ground/first-floor room sizes, **7′4″ gate with an 8-inch pier**, and **5-inch main slabs** remain the basis of the model. Normal wall thickness is 4 inches, with local column projections retained.
+The wooden porch-to-drawing-room entrance has not been redesigned. The road-facing gate alone receives walnut vertical slats, dark privacy backing and slim bronze framing and handles.
 
-## Mumty floor and roof heights
+## Dimensions retained
 
-The new rear layout follows the annotated plan you supplied:
-
-| Space | Clear plan dimensions |
+| Item | Model basis |
 |---|---|
-| Rear room | **14′4″ × 9′8″** |
-| Washroom | **7′0″ × 4′4″** |
-| Open-to-sky shaft — OTS | **3′0″ × 4′4″** |
-| Front balcony / stair landing | **5′6″ × 6′0″** |
+| Outer wall footprint | 15′ × 40′ |
+| Road gate opening / pier | 7′4″ clear / 8″ |
+| Main slabs | 5″ |
+| Ground room floor | +1′6″ above road; porch +1′; bathroom +1′3″ |
+| First floor / mumty terrace | +12′ / +23′ above road |
+| Front tower clear height | 11′6″; roof underside +34′6″; roof top +34′11″ |
+| Rear mumty room/bath clear height | 10′6″; underside +33′6″; roof top +33′11″ |
+| Ground bathroom loft underside | 7′6″ above bathroom floor, over the entire 6′ × 5′ room |
 
-The room entrance is at the **green-marked left side of its front wall**, reached from the terrace. The rear roof covers the room and washroom as an L shape. The OTS and the approach beside the washroom stay open. The central area remains an open terrace.
+Normal walls are 4″ thick with the original local column projections. Room dimensions are measured between normal wall faces; columns locally reduce clearance. Roof levels exclude unspecified finish build-ups. Loft thickness has not been supplied, so only its underside is represented.
 
-You confirmed that 11.6 and 10.6 mean **11 feet 6 inches and 10 feet 6 inches**, measured from the finished floor to the underside of the roof.
+| Room | Clear plan size |
+|---|---|
+| Ground drawing | 14′4″ × 10′0″ |
+| Ground kitchen | 10′4″ × 8′0″ |
+| Ground bedroom | 14′4″ × 9′0″ |
+| Ground bathroom / wash area | 6′0″ × 5′0″ / 4′0″ × 5′0″ |
+| First front bedroom | 10′4″ × 10′8″ |
+| First dresser / front bathroom | 6′0″ × 7′4″ / 4′0″ × 7′4″ |
+| First rear bedroom / bathroom | 14′4″ × 9′8″ / 7′0″ × 4′4″ |
+| Mumty rear bedroom / bathroom | 14′4″ × 9′8″ / 7′0″ × 4′4″ |
+| Duct aperture | 3′0″ × 4′4″ |
+| Front balcony / landing | 5′6″ × 6′0″ |
 
-| Part | Clear inside height | Roof underside above road | Roof top above road* |
-|---|---|---|---|
-| Front tower | **11′6″** | +34′6″ | **+34′11″** |
-| Rear room and washroom | **10′6″** | +33′6″ | **+33′11″** |
+The new mumty bedroom entrance follows the green-marked left-hand position. Its exact width/jamb offset was not dimensioned; the previously used door width remains a visualization assumption. Some first-floor opening offsets are also inferred from incomplete working-plan information. These uncertainties have not been replaced with claims of surveyed accuracy.
 
-*Using the retained mumty floor level of +23′ and 5-inch slabs, before any unspecified roof finish buildup. These heights replace the earlier +34′ top-roof assumption. The first-floor level remains +12′.*
+## Interior direction
 
-The dimensioned **2-foot overhang** behind the front tower remains. The separate thick black dashed line on the new plan is unlabelled; it has not been used to invent another canopy or roof extension.
+Warm ivory, pale walnut, soft sage fabrics, restrained bronze/brass accents and light stone create a consistent palette. Bedrooms have applied fluted and curved headboard mouldings. Slim perimeter ceiling details and warm linear accents replace heavy ornament. Living-room mouldings and kitchen under-cabinet lighting follow the same approach.
 
-## Bathroom fittings
+Bathrooms show floating wood counters with white vessel basins, fluted backdrops, illuminated mirrors and applied triangular marble shelves. Shallow cream-and-walnut storage stays below the ground bathroom loft and clear of the retained fittings. Proposed finish layers and furniture occupy some usable space within unchanged room shells.
 
-“Front” means the bedroom nearest the staircase; “rear” means the last bedroom toward the back of the house.
+| Bathroom | Retained requested fixture arrangement |
+|---|---|
+| Ground | Wall-hung WC, shower and diverter; full-area loft |
+| First front | Indian squat WC, shower/diverter and geyser |
+| First rear | Wall-hung WC, shower/diverter and geyser |
+| Mumty | Indian squat WC and diverter/hand shower; no geyser |
 
-| Location | Toilet | Requested fittings / feature |
-|---|---|---|
-| Ground bathroom, 6′ × 5′ | Wall-mounted WC | Shower and diverter; full-area storage loft |
-| First-floor front bathroom, 4′ × 7′4″ | Indian squat toilet | Shower, diverter and geyser |
-| First-floor rear bathroom, 7′ × 4′4″ | Wall-mounted WC | Diverter and geyser |
-| Mumty washroom, 7′ × 4′4″ | Indian squat toilet | Diverter |
+## Electrical, plumbing and laundry
 
-The **ground-floor loft underside is shown at 7′6″ above the bathroom floor**, across the whole bathroom. Its thickness was not provided, so the model indicates the underside without assigning a structural slab thickness.
+There are **63 named service points: 36 electrical and 27 plumbing**. Physical plates and fittings are visible in the model. The viewer's Service points button adds labels; three printable service sheets and a searchable schedule identify their functions and heights.
 
-**Ventilation needs coordination:** the existing high bathroom vent is above the new loft underside. The room below the loft therefore needs an agreed exhaust/ventilation route. The existing opening has been retained; a new opening or duct route has not been assumed.
+The supplied service drawing's mounting-height schedule is retained where applicable. Exact horizontal offsets, new mumty points, washer services and unprovided fitting heights are proposed coordinates. The points are coordination aids, not a complete cable/pipe routing or electrical design. Geyser controls are shown outside the two first-floor wet rooms.
 
-**Loft-to-door detail also needs coordination:** the bathroom floor is 3 inches lower than the adjoining floor. The retained door opening uses the adjoining floor level, placing its head **3 inches above the new loft underside**. The loft edge and door-head junction need detailing once the loft thickness is known. Both your confirmed loft level and the existing door opening remain unchanged.
+The front-load washer faces into the porch under the upper stair return. Its closed assembly occupies approximately X5.913–8.303 ft and depth 0.737–2.763 ft; top elevation +3.807 ft. The lowest modeled stair underside over it is +9.434 ft. The machine clears the original porch boundary and ascending flight. The cold supply, drain and power point are shown beside it; final connections depend on the selected appliance.
 
-## Solar above the rear block
+## Chhaja, duct glass and solar
 
-The model shows **six nominal 500 W panels = 3 kWp** above the room/washroom roof. Four are landscape and two are portrait to avoid covering the OTS or open approach. Panel bodies use a verified manufacturer size reference of **1800 × 1134 mm**; no brand or product purchase is selected. [LONGi size and rating reference](https://wf-eu.longi.com/fr/longi-solar-panels-datasheets/lr7-54hvh-480-505).
+The rear room/washroom roof now projects **2′ around all exposed sides**, while the full original duct aperture remains free of opaque slab. Its widest roof extent is **19′**, over unchanged **15′-wide walls**. The model establishes geometry only; actual property boundaries and cantilever support are not confirmed.
 
-The panels fit the roof shape geometrically, but the washroom-roof edges are tight. Their supports, access clearances and orientation are **illustrative**, pending a site layout.
+A slim framed glass canopy covers the duct with a small oversail and an open perimeter ventilation gap. The visual proposal uses an 8″–11″ gap and a gentle slope. This preserves daylight and airflow; support, rain protection and glass specification still require detailed coordination. The three shown supports/frame are illustrative.
 
-**3 kW is not a promise of whole-house power at all times.** Supply depends on sunlight and the house’s consumption; nighttime use and outage backup require a suitable arrangement. A normal grid-connected system does not automatically run during a power cut. Monthly electricity use, AC/appliance loads and your backup needs are needed to assess sufficiency. [Solar and storage](https://www.energy.gov/cmei/systems/solar-integration-solar-energy-and-storage-basics) · [Outage operation](https://www.energy.gov/cmei/systems/solar-and-resilience-basics). Further details are in **Solar-concept.md**.
+Six nominal 500 W panels remain above the rear room/washroom: **3 kWp total**. Their positions remain over the original supporting roof area; the chhaja is not treated as new verified solar support. See Solar-concept.md for the retained installation assumptions. Whole-house energy sufficiency has not been established.
 
-## What is exact, and what is proposed
+## Details still needing coordination
 
-The model and walkthrough use the quoted plan dimensions and your confirmed changes to control the building’s shape. Coordinates are reconstructed by closing the printed dimension chains; they are not measured from image pixels. Room dimensions describe normal wall faces, so columns can locally reduce clear space.
+The ground bathroom's original high vent sits above the loft underside. An exhaust route below the loft is still needed. Its floor is 3″ below the adjoining floor, so the retained door head is 3″ above the loft underside; the loft-to-door junction also needs detailing. Neither an invented vent nor a changed opening has been introduced.
 
-Some first-floor opening offsets remain inferred because the architectural PDF does not include its complete dimensioned working plan; pages 7 and 8 repeat the opening schedule. The new green mumty-door mark establishes its location but does not dimension its width or jamb offset. Conflicting opening captions remain unresolved where no clearer source exists.
+## How to use the images
 
-**The photo-style renders illustrate colours and finishes.** They are not measurement drawings and can differ in small details from the controlled model. Furniture, cabinetry, lighting, tiles and decorative details are proposals. Construction photographs provide visual context, not an as-built survey. Neither the renders nor the walkthrough certify every constructed detail.
+The **3D model and walkthrough** use the plan dimension chains and your confirmed revisions. They are a visualization, not an as-built survey or certified construction model. The **photo-style images** refine materials, colour and lighting and may differ in small details from the controlled model. Use the supplied drawings and coordinated model geometry for dimensions.
 
-The source architecture, structural and service PDFs, exterior references and current photographs remain untouched. Concealed reinforcement, complete pipe/cable networks and the undimensioned water tank are outside this visualization. No new staircase or roof-access opening has been added. Gate swing is illustrative because the reference does not specify its operation.
+The walkthrough is rendered from the model at **1920 × 1080, 60 frames per second**, with human-height room and street cameras plus clearly identified overhead/detail views. The interactive viewer's live speed depends on the device. Original drawings, construction photographs and style-reference images remain untouched.

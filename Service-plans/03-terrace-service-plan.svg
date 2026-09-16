@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2160" viewBox="0 0 1600 2160" role="img">
+<title>Mumty floor — electrical and plumbing point plan</title><desc>Room outlines retain the approved dimensions. Endpoint positions are coordination proposals. All mounting heights are in the point schedule.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif} .endpoint{cursor:help}</style><rect width="1600" height="2160" fill="#faf9f5"/>
+<text x="70.00" y="70.00" font-size="23" fill="#86734f" font-weight="700" text-anchor="start">DHAIRYA  /  RESIDENCE</text>
+<text x="70.00" y="133.00" font-size="49" fill="#243f3d" font-weight="700" text-anchor="start">Mumty floor</text>
+<text x="70.00" y="175.00" font-size="23" fill="#5f6d68" font-weight="400" text-anchor="start">Service point coordination · Revision 3 · September 2026</text>
+<text x="180.00" y="210.00" font-size="25" fill="#a37a35" font-weight="700" text-anchor="start">ELECTRICAL POINTS</text>
+<rect x="180" y="245" width="450" height="1200" fill="#d2d4ce" stroke="#4f625d" stroke-width="2"/>
+<rect x="190.000" y="1255.000" width="165.000" height="180.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="272.50" y="1341.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">BALCONY</text>
+<text x="272.50" y="1364.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">5′6″ × 6′0″</text>
+<rect x="190.000" y="695.000" width="430.000" height="550.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="405.00" y="966.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">OPEN TERRACE</text>
+<text x="405.00" y="989.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">14′4″ × 18′4″</text>
+<rect x="190.000" y="545.000" width="110.000" height="150.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="245.00" y="616.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">ACCESS</text>
+<rect x="190.000" y="255.000" width="430.000" height="290.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="405.00" y="396.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">REAR BEDROOM</text>
+<text x="405.00" y="419.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">14′4″ × 9′8″</text>
+<rect x="310.000" y="555.000" width="210.000" height="130.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="415.00" y="616.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">BATHROOM</text>
+<text x="415.00" y="639.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">7′0″ × 4′4″</text>
+<rect x="530.000" y="555.000" width="90.000" height="130.000" fill="#e8f0ee" stroke="#acb3ac" stroke-width=".75"/>
+<text x="575.00" y="616.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">DUCT</text>
+<text x="575.00" y="639.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">3′0″ × 4′4″</text>
+<rect x="180.0" y="1415.0" width="20.0" height="30.0" fill="#9aa59c"/>
+<rect x="600.0" y="1425.0" width="30.0" height="20.0" fill="#9aa59c"/>
+<rect x="180.0" y="1225.0" width="20.0" height="30.0" fill="#9aa59c"/>
+<rect x="600.0" y="1235.0" width="30.0" height="20.000000000000007" fill="#9aa59c"/>
+<rect x="180.0" y="905.0" width="20.0" height="39.999999999999964" fill="#9aa59c"/>
+<rect x="610.0" y="905.0" width="19.999999999999982" height="39.999999999999964" fill="#9aa59c"/>
+<rect x="180.0" y="525.0" width="20.0" height="40.00000000000007" fill="#9aa59c"/>
+<rect x="610.0" y="525.0" width="19.999999999999982" height="40.00000000000007" fill="#9aa59c"/>
+<rect x="180.0" y="245.0" width="30.0" height="19.99999999999993" fill="#9aa59c"/>
+<rect x="600.0" y="245.0" width="30.0" height="19.99999999999993" fill="#9aa59c"/>
+<rect x="355.0" y="1255.0" width="264.99999999999994" height="180" fill="#e9e9e2" stroke="#a6ada5" stroke-width="1.2"/>
+<path d="M355.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M380.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M405.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M430.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M455.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M480.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M505.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M530.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<text x="487.50" y="1345.00" font-size="17" fill="#87948c" font-weight="500" text-anchor="middle">STAIR</text>
+<text x="405.00" y="1479.00" font-size="18" fill="#65776f" font-weight="600" text-anchor="middle">FRONT / ROAD</text>
+<g class="endpoint"><title>M-E04 · Mumty left bedside · socket · 2′6″ above finished floor</title>
+<path d="M298.80,256.10L164.00,259.00H156.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<circle cx="298.80" cy="256.10" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
+<text x="156.00" y="265.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="end">M-E04</text>
+</g>
+<g class="endpoint"><title>M-E03 · Mumty bedroom entry · switch · 4′6″ above finished floor</title>
+<path d="M316.50,544.25L164.00,544.25H156.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<circle cx="316.50" cy="544.25" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
+<text x="156.00" y="550.25" font-size="18" fill="#a37a35" font-weight="700" text-anchor="end">M-E03</text>
+</g>
+<g class="endpoint"><title>M-E02 · Mumty bathroom light outside · switch · 4′6″ above finished floor</title>
+<path d="M298.80,654.50L164.00,654.50H156.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<circle cx="298.80" cy="654.50" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
+<text x="156.00" y="660.50" font-size="18" fill="#a37a35" font-weight="700" text-anchor="end">M-E02</text>
+</g>
+<g class="endpoint"><title>M-E01 · Tower terrace switch · switch · 4′6″ above finished floor</title>
+<path d="M321.00,1244.00L164.00,1244.00H156.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<circle cx="321.00" cy="1244.00" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
+<text x="156.00" y="1250.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="end">M-E01</text>
+</g>
+<g class="endpoint"><title>M-E05 · Mumty right bedside · socket · 2′6″ above finished floor</title>
+<path d="M502.80,256.10L646.00,259.00H654.00" fill="none" stroke="#a37a35" stroke-width="1.15" opacity=".72"/>
+<circle cx="502.80" cy="256.10" r="5.3" fill="#a37a35" stroke="#fff" stroke-width="1.5"/>
+<text x="654.00" y="265.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">M-E05</text>
+</g>
+<text x="970.00" y="210.00" font-size="25" fill="#277e9c" font-weight="700" text-anchor="start">PLUMBING POINTS</text>
+<rect x="970" y="245" width="450" height="1200" fill="#d2d4ce" stroke="#4f625d" stroke-width="2"/>
+<rect x="980.000" y="1255.000" width="165.000" height="180.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="1062.50" y="1341.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">BALCONY</text>
+<text x="1062.50" y="1364.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">5′6″ × 6′0″</text>
+<rect x="980.000" y="695.000" width="430.000" height="550.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="1195.00" y="966.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">OPEN TERRACE</text>
+<text x="1195.00" y="989.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">14′4″ × 18′4″</text>
+<rect x="980.000" y="545.000" width="110.000" height="150.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="1035.00" y="616.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">ACCESS</text>
+<rect x="980.000" y="255.000" width="430.000" height="290.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="1195.00" y="396.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">REAR BEDROOM</text>
+<text x="1195.00" y="419.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">14′4″ × 9′8″</text>
+<rect x="1100.000" y="555.000" width="210.000" height="130.000" fill="#fffef9" stroke="#acb3ac" stroke-width=".75"/>
+<text x="1205.00" y="616.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">BATHROOM</text>
+<text x="1205.00" y="639.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">7′0″ × 4′4″</text>
+<rect x="1320.000" y="555.000" width="90.000" height="130.000" fill="#e8f0ee" stroke="#acb3ac" stroke-width=".75"/>
+<text x="1365.00" y="616.00" font-size="17" fill="#7b857e" font-weight="500" text-anchor="middle">DUCT</text>
+<text x="1365.00" y="639.00" font-size="14" fill="#859089" font-weight="400" text-anchor="middle">3′0″ × 4′4″</text>
+<rect x="970.0" y="1415.0" width="20.0" height="30.0" fill="#9aa59c"/>
+<rect x="1390.0" y="1425.0" width="30.0" height="20.0" fill="#9aa59c"/>
+<rect x="970.0" y="1225.0" width="20.0" height="30.0" fill="#9aa59c"/>
+<rect x="1390.0" y="1235.0" width="30.0" height="20.000000000000007" fill="#9aa59c"/>
+<rect x="970.0" y="905.0" width="20.0" height="39.999999999999964" fill="#9aa59c"/>
+<rect x="1400.0" y="905.0" width="19.999999999999982" height="39.999999999999964" fill="#9aa59c"/>
+<rect x="970.0" y="525.0" width="20.0" height="40.00000000000007" fill="#9aa59c"/>
+<rect x="1400.0" y="525.0" width="19.999999999999982" height="40.00000000000007" fill="#9aa59c"/>
+<rect x="970.0" y="245.0" width="30.0" height="19.99999999999993" fill="#9aa59c"/>
+<rect x="1390.0" y="245.0" width="30.0" height="19.99999999999993" fill="#9aa59c"/>
+<rect x="1145.0" y="1255.0" width="264.99999999999994" height="180" fill="#e9e9e2" stroke="#a6ada5" stroke-width="1.2"/>
+<path d="M1145.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M1170.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M1195.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M1220.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M1245.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M1270.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M1295.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<path d="M1320.0,1255.0v180" stroke="#bec4bc" stroke-width="1"/>
+<text x="1277.50" y="1345.00" font-size="17" fill="#87948c" font-weight="500" text-anchor="middle">STAIR</text>
+<text x="1195.00" y="1479.00" font-size="18" fill="#65776f" font-weight="600" text-anchor="middle">FRONT / ROAD</text>
+<g class="endpoint"><title>M-P01 · Mumty basin cold feed · water connection · 1′7″ above finished floor</title>
+<path d="M1118.80,683.90L954.00,683.90H946.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
+<circle cx="1118.80" cy="683.90" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
+<text x="946.00" y="689.90" font-size="18" fill="#277e9c" font-weight="700" text-anchor="end">M-P01</text>
+</g>
+<g class="endpoint"><title>M-P02 · Mumty WC jet supply · water connection · 1′10″ above finished floor</title>
+<path d="M1308.10,572.30L1436.00,572.30H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
+<circle cx="1308.10" cy="572.30" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
+<text x="1444.00" y="578.30" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">M-P02</text>
+</g>
+<g class="endpoint"><title>M-P03 · Mumty wet area · floor drain · 0′0″ above finished floor</title>
+<path d="M1211.30,663.40L1436.00,663.40H1444.00" fill="none" stroke="#3a8569" stroke-width="1.15" opacity=".72"/>
+<circle cx="1211.30" cy="663.40" r="5.3" fill="#3a8569" stroke="#fff" stroke-width="1.5"/>
+<text x="1444.00" y="669.40" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">M-P03</text>
+</g>
+<g class="endpoint"><title>M-P06 · Mumty toilet · diverter connections · 3′3″ above finished floor</title>
+<path d="M1211.30,680.90L1436.00,691.40H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
+<circle cx="1211.30" cy="680.90" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
+<text x="1444.00" y="697.40" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">M-P06</text>
+</g>
+<g class="endpoint"><title>M-P05 · Terrace near duct · floor drain · 0′0″ above finished floor</title>
+<path d="M1392.10,710.00L1436.00,719.40H1444.00" fill="none" stroke="#3a8569" stroke-width="1.15" opacity=".72"/>
+<circle cx="1392.10" cy="710.00" r="5.3" fill="#3a8569" stroke="#fff" stroke-width="1.5"/>
+<text x="1444.00" y="725.40" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">M-P05</text>
+</g>
+<g class="endpoint"><title>M-P04 · Terrace cleaning tap · utility tap · 1′10″ above finished floor</title>
+<path d="M1408.00,746.00L1436.00,747.40H1444.00" fill="none" stroke="#277e9c" stroke-width="1.15" opacity=".72"/>
+<circle cx="1408.00" cy="746.00" r="5.3" fill="#277e9c" stroke="#fff" stroke-width="1.5"/>
+<text x="1444.00" y="753.40" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">M-P04</text>
+</g>
+<text x="70.00" y="1520.00" font-size="20" fill="#a37a35" font-weight="700" text-anchor="start">POINT KEY</text>
+<text x="730.00" y="1520.00" font-size="17" fill="#6b7c73" font-weight="600" text-anchor="end">HEIGHT*</text>
+<text x="70.00" y="1560.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">M-E01</text>
+<text x="161.00" y="1560.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Tower terrace switch · switches</text>
+<text x="730.00" y="1560.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">4′6″</text>
+<path d="M70,1572h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="70.00" y="1588.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">M-E02</text>
+<text x="161.00" y="1588.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Mumty bathroom light outside · switches</text>
+<text x="730.00" y="1588.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">4′6″</text>
+<path d="M70,1600h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="70.00" y="1616.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">M-E03</text>
+<text x="161.00" y="1616.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Mumty bed entry · switches</text>
+<text x="730.00" y="1616.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">4′6″</text>
+<path d="M70,1628h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="70.00" y="1644.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">M-E04</text>
+<text x="161.00" y="1644.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Mumty left bedside · socket</text>
+<text x="730.00" y="1644.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">2′6″</text>
+<path d="M70,1656h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="70.00" y="1672.00" font-size="18" fill="#a37a35" font-weight="700" text-anchor="start">M-E05</text>
+<text x="161.00" y="1672.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Mumty right bedside · socket</text>
+<text x="730.00" y="1672.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">2′6″</text>
+<path d="M70,1684h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="860.00" y="1520.00" font-size="20" fill="#277e9c" font-weight="700" text-anchor="start">POINT KEY</text>
+<text x="1520.00" y="1520.00" font-size="17" fill="#6b7c73" font-weight="600" text-anchor="end">HEIGHT*</text>
+<text x="860.00" y="1560.00" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">M-P01</text>
+<text x="951.00" y="1560.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Mumty basin cold feed · water feed</text>
+<text x="1520.00" y="1560.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">1′7″</text>
+<path d="M860,1572h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="860.00" y="1588.00" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">M-P02</text>
+<text x="951.00" y="1588.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Mumty WC jet supply · water feed</text>
+<text x="1520.00" y="1588.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">1′10″</text>
+<path d="M860,1600h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="860.00" y="1616.00" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">M-P03</text>
+<text x="951.00" y="1616.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Mumty wet area · drain</text>
+<text x="1520.00" y="1616.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">0′0″</text>
+<path d="M860,1628h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="860.00" y="1644.00" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">M-P04</text>
+<text x="951.00" y="1644.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Terrace cleaning tap · utility tap</text>
+<text x="1520.00" y="1644.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">1′10″</text>
+<path d="M860,1656h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="860.00" y="1672.00" font-size="18" fill="#3a8569" font-weight="700" text-anchor="start">M-P05</text>
+<text x="951.00" y="1672.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Terrace near duct · drain</text>
+<text x="1520.00" y="1672.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">0′0″</text>
+<path d="M860,1684h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="860.00" y="1700.00" font-size="18" fill="#277e9c" font-weight="700" text-anchor="start">M-P06</text>
+<text x="951.00" y="1700.00" font-size="17" fill="#3e514b" font-weight="400" text-anchor="start">Mumty toilet · diverter</text>
+<text x="1520.00" y="1700.00" font-size="18" fill="#3e514b" font-weight="400" text-anchor="end">3′3″</text>
+<path d="M860,1712h670" stroke="#e0e4dc" stroke-width="1"/>
+<text x="70.00" y="2084.00" font-size="19" fill="#65766c" font-weight="400" text-anchor="start">* Heights are above the relevant finished floor. Horizontal endpoint positions are proposals.</text>
+<text x="70.00" y="2117.00" font-size="18" fill="#65766c" font-weight="400" text-anchor="start">Room outlines preserve approved sizes. This is a point-location diagram; concealed routes and final installation details are not shown.</text>
+<text x="1530.00" y="2117.00" font-size="18" fill="#65766c" font-weight="600" text-anchor="end">03 / 03</text>
+</svg>

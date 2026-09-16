@@ -1,6 +1,6 @@
 # Dhairya Residence
 
-Complete house gallery with 12 colour renders, 25 model views, a 2:54 Full HD walkthrough, an interactive 3D viewer and a portable GLB model.
+Complete house gallery with 17 colour renders, 33 model views, a 3:55 Full HD 60 fps walkthrough, 63 service points and three annotated service sheets, an interactive 3D viewer and a portable GLB model.
 
 Open the website: https://dhairyajain29.github.io/dhairya-home/
 
