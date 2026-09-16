@@ -1,4 +1,4 @@
-DHAIRYA RESIDENCE — V5
+DHAIRYA RESIDENCE — V6
 
 Open Open-house-gallery.html for the complete house website.
 Website: https://dhairyajain29.github.io/dhairya-home/
@@ -9,8 +9,8 @@ Rear roof: 2-foot chhaja toward the open terrace to the marked dotted line; side
 Laundry: one washer at the back of the ground-floor stair bay, with a folding counter and cabinet for washed clothes.
 
 17 colour finish previews; 33 dimension-controlled model views.
-Complete-house-walkthrough.mp4: 3 minutes 55 seconds, Full HD, 60 fps, silent.
-Interactive-3D-viewer.html: standalone offline viewer; choose a room, switch day/night or show service points. Drag to look, scroll to zoom, arrow keys to move.
+Latest-render-house-film.mp4: 2 minutes, Full HD, 60 fps, 17 image chapters, silent. Only the 17 latest realistic renders are used, with gentle zooms and transitions. The website player links to all 17 views. This image-based film replaces the earlier model-rendered main video; it is not a continuous 3D walkthrough.
+Interactive-3D-viewer.html: retained standalone offline model viewer with its separate 3-minute-55-second live tour; choose a room, switch day/night or show service points. Drag to look, scroll to zoom, arrow keys to move.
 Dhairya-house-model.glb: portable 3D model in metres.
 Service-plans/: three printable SVG sheets with separate electrical/plumbing panels.
 Service-points.json and Service-points.md: 63 named endpoints, functions and heights.

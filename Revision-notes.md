@@ -1,4 +1,10 @@
-# Dhairya Residence — design notes, V5
+# Dhairya Residence — design notes, V6
+
+## Latest video revision
+
+The main video now uses only the **17 latest realistic renders**, including the original elevation with its confirmed gate-width revision, the day/night pair, interiors, bathroom details, rear under-stair laundry and roof additions. Gentle zooms and transitions animate the approved still images. The earlier video rendered from the simpler 3D model is replaced on the website.
+
+This is an **image-based render film**, not a continuous camera walkthrough through a photorealistic 3D scene. The film and gallery use the same realistic images. The separate 3D viewer and downloadable model retain the established geometry.
 
 ## Current design
 
@@ -6,7 +12,7 @@ The latest supplied elevation is the reference for the facade appearance. The mo
 
 The road-facing gate returns to the original silver-grey design: six horizontal panel bands, two black pull handles, and an ornamental transom with the Jai Jinendra sign. Its opening is **7′4″ clear with the confirmed 8″ pier**, as previously red-marked. The wooden porch-to-drawing-room entrance is unchanged.
 
-Interior mouldings, bathroom fittings and storage, all 63 electrical/plumbing points, the rear under-stair washer with counter and clothes cabinet, the terrace-facing 2′ chhaja, the ventilated duct glass and the six-panel solar concept are retained. The gallery contains 17 colour finish previews, 33 model views, day/night comparison, a 3-minute-55-second 60 fps walkthrough and an interactive viewer.
+Interior mouldings, bathroom fittings and storage, all 63 electrical/plumbing points, the rear under-stair washer with counter and clothes cabinet, the terrace-facing 2′ chhaja, the ventilated duct glass and the six-panel solar concept are retained. The gallery contains 17 colour finish previews, 33 model views, day/night comparison, a new 2-minute, 60 fps realistic render film with 17 image chapters and the retained interactive model viewer.
 
 The front-elevation images show the supplied design and the confirmed gate-width revision. Day/night comparison uses the full image frame. These images communicate appearance; the plan dimensions and the confirmed gate opening govern model geometry. Perspective in the reference image is not a dimensioned facade drawing, so unprovided trim thicknesses, ornamental details and exact fixture specifications remain visual approximations.
 
@@ -77,6 +83,8 @@ The ground bathroom's original high vent sits above the loft underside. An exhau
 
 ## How to use the images
 
-The **3D model and walkthrough** use the plan dimension chains and your confirmed revisions. They are a visualization, not an as-built survey or certified construction model. The **photo-style images** communicate materials, colour and lighting. The supplied elevation governs the front facade appearance; the remaining interior and roof images illustrate the retained finish proposals and may differ in small details from the controlled model. Use the supplied drawings and coordinated model geometry for dimensions.
+The **3D model and its interactive viewer tour** use the plan dimension chains and your confirmed revisions. They are a visualization, not an as-built survey or certified construction model. The **photo-style images** communicate materials, colour and lighting. The supplied elevation governs the front facade appearance; the remaining interior and roof images illustrate the retained finish proposals and may differ in small details from the controlled model. Use the supplied drawings and coordinated model geometry for dimensions.
 
-The walkthrough is rendered from the model at **1920 × 1080, 60 frames per second**, with a duration of **3 minutes 55 seconds**, with human-height room and street cameras plus clearly identified overhead/detail views. The interactive viewer's live speed depends on the device. Original drawings, construction photographs and style-reference images remain untouched.
+The **realistic render film** is **2 minutes long, at 1920 × 1080 and 60 frames per second**, with **17 image chapters**. The website player links directly to each view. Motion comes from gentle zooms and transitions across the latest render images; it does not add new room geometry or provide measurement evidence.
+
+The interactive viewer retains its separate 3-minute-55-second model tour, with human-height room and street cameras plus identified overhead/detail views. Its live speed depends on the device. Original drawings, construction photographs and style-reference images remain untouched.
