@@ -1,6 +1,6 @@
-DHAIRYA RESIDENCE — V6
+DHAIRYA RESIDENCE — V7 PREVIEW
 
-Open Open-house-gallery.html for the complete house website.
+Open Open-house-gallery.html for the house website and current 3D walkthrough preview.
 Website: https://dhairyajain29.github.io/dhairya-home/
 
 Facade: the supplied original elevation is restored throughout the model and facade previews. White frames, silver-grey stone, charcoal cladding, wood soffits, original balcony treatment and warm facade lighting are retained.
@@ -8,9 +8,9 @@ Road gate: original silver-grey horizontal panel design, two black handles and o
 Rear roof: 2-foot chhaja toward the open terrace to the marked dotted line; side and rear edges remain within the house boundary. The original front tower chhaja stays unchanged.
 Laundry: one washer at the back of the ground-floor stair bay, with a folding counter and cabinet for washed clothes.
 
-17 colour finish previews; 33 dimension-controlled model views.
-Latest-render-house-film.mp4: 2 minutes, Full HD, 60 fps, 17 image chapters, silent. Only the 17 latest realistic renders are used, with gentle zooms and transitions. The website player links to all 17 views. This image-based film replaces the earlier model-rendered main video; it is not a continuous 3D walkthrough.
-Interactive-3D-viewer.html: retained standalone offline model viewer with its separate 3-minute-55-second live tour; choose a room, switch day/night or show service points. Drag to look, scroll to zoom, arrow keys to move.
+17 realistic design visualizations; 33 dimension-controlled model views.
+3D-walkthrough-preview-v7.mp4: 21 seconds, 1920 × 1080, 60 fps, three completed sections, silent. Day elevation at 0:00; entrance at 0:08; rear laundry at 0:15.
+Interactive-3D-viewer.html: retained simplified standalone offline model viewer with its separate 3-minute-55-second live tour; choose a room, switch day/night or show service points. Drag to look, scroll to zoom, arrow keys to move.
 Dhairya-house-model.glb: portable 3D model in metres.
 Service-plans/: three printable SVG sheets with separate electrical/plumbing panels.
 Service-points.json and Service-points.md: 63 named endpoints, functions and heights.
@@ -18,3 +18,10 @@ Revision-notes.md: confirmed dimensions, design changes and remaining detail ass
 Solar-concept.md: 3 kWp spatial concept and unresolved system requirements.
 
 The supplied elevation governs the facade appearance. Finish previews are not dimensioned drawings or measurement evidence. Use the controlled model and source drawings for geometry. Keep this folder together for offline use.
+
+The realistic still gallery contains separate design visualizations, not video frames. The walkthrough preserves the existing architectural model dimensions while refining surface detail, lighting and furnishings. See the revision notes for dimensions and inferred details.
+Third-party-license.txt: software notices and credits for the Poly Haven material maps used in the walkthrough.
+
+Published progress snapshot: 17 September 2026, 02:37 PM IST. Three completed video sections (21 seconds) are included. The planned full tour is 187 seconds with 23 sections and is still rendering locally. This page is a publication snapshot, not a live rendering-status display.
+
+3D-render-previews/: six separate completed 3D scene stills, independent from the three-section video preview.

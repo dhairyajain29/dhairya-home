@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+PHOTOGRAPHIC MATERIAL TEXTURES — V7 WALKTHROUGH
+
+Material maps supplied by Poly Haven. Credits apply to these asset maps; the website, text, preview images and logo are excluded.
+
+Terlenka — colormass (Photography), Rico Cilliers (Processing)
+Source: https://polyhaven.com/a/terlenka
+License: CC0-1.0 — https://polyhaven.com/license
+
+Walnut Veneer — Jenelle van Heerden (All)
+Source: https://polyhaven.com/a/walnut_veneer
+License: CC0-1.0 — https://polyhaven.com/license

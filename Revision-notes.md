@@ -1,10 +1,14 @@
-# Dhairya Residence — design notes, V6
+# Dhairya Residence — V7 preview notes
 
-## Latest video revision
+## Published video preview
 
-The main video now uses only the **17 latest realistic renders**, including the original elevation with its confirmed gate-width revision, the day/night pair, interiors, bathroom details, rear under-stair laundry and roof additions. Gentle zooms and transitions animate the approved still images. The earlier video rendered from the simpler 3D model is replaced on the website.
+The primary video is a **21-second 3D walkthrough preview**, showing the three completed camera sections: daytime elevation, entrance and rear under-stair laundry. It contains moving-camera renders of the actual 3D scene.
 
-This is an **image-based render film**, not a continuous camera walkthrough through a photorealistic 3D scene. The film and gallery use the same realistic images. The separate 3D viewer and downloadable model retain the established geometry.
+Published progress snapshot: 17 September 2026, 02:37 PM IST. Three completed video sections (21 seconds) are included. The planned full tour is 187 seconds with 23 sections and is still rendering locally. This page is a publication snapshot, not a live rendering-status display.
+
+Six additional completed 3D scene stills show the drawing room, kitchen, ground-floor bedroom and bathroom, roof and night elevation. They are separate from the published video preview. The 17 retained realistic design stills are another independent set of finish visualizations and may differ in detail from the moving scene.
+
+The existing plan dimensions and confirmed revisions remain the architectural basis. The separate interactive viewer is a simplified model for exploring the layout and service points.
 
 ## Current design
 
@@ -12,7 +16,7 @@ The latest supplied elevation is the reference for the facade appearance. The mo
 
 The road-facing gate returns to the original silver-grey design: six horizontal panel bands, two black pull handles, and an ornamental transom with the Jai Jinendra sign. Its opening is **7′4″ clear with the confirmed 8″ pier**, as previously red-marked. The wooden porch-to-drawing-room entrance is unchanged.
 
-Interior mouldings, bathroom fittings and storage, all 63 electrical/plumbing points, the rear under-stair washer with counter and clothes cabinet, the terrace-facing 2′ chhaja, the ventilated duct glass and the six-panel solar concept are retained. The gallery contains 17 colour finish previews, 33 model views, day/night comparison, a new 2-minute, 60 fps realistic render film with 17 image chapters and the retained interactive model viewer.
+Interior mouldings, bathroom fittings and storage, all 63 electrical/plumbing points, the rear under-stair washer with counter and clothes cabinet, the terrace-facing 2′ chhaja, the ventilated duct glass and the six-panel solar concept are retained. The preview gallery contains 17 realistic design visualizations, 33 model views, day/night comparison, a 21-second 3D video preview with three completed sections, six separate new 3D scene stills and the retained simplified interactive model viewer.
 
 The front-elevation images show the supplied design and the confirmed gate-width revision. Day/night comparison uses the full image frame. These images communicate appearance; the plan dimensions and the confirmed gate opening govern model geometry. Perspective in the reference image is not a dimensioned facade drawing, so unprovided trim thicknesses, ornamental details and exact fixture specifications remain visual approximations.
 
@@ -85,6 +89,15 @@ The ground bathroom's original high vent sits above the loft underside. An exhau
 
 The **3D model and its interactive viewer tour** use the plan dimension chains and your confirmed revisions. They are a visualization, not an as-built survey or certified construction model. The **photo-style images** communicate materials, colour and lighting. The supplied elevation governs the front facade appearance; the remaining interior and roof images illustrate the retained finish proposals and may differ in small details from the controlled model. Use the supplied drawings and coordinated model geometry for dimensions.
 
-The **realistic render film** is **2 minutes long, at 1920 × 1080 and 60 frames per second**, with **17 image chapters**. The website player links directly to each view. Motion comes from gentle zooms and transitions across the latest render images; it does not add new room geometry or provide measurement evidence.
+The **published 3D walkthrough preview** is **21 seconds at 1920 × 1080 and 60 frames per second**, with **three sections**: the daytime elevation (0:00), entrance (0:08) and rear under-stair laundry (0:15). Each section uses a moving camera in the 3D scene. The six additional scene stills are separate rendered views and are not part of the video preview.
 
 The interactive viewer retains its separate 3-minute-55-second model tour, with human-height room and street cameras plus identified overhead/detail views. Its live speed depends on the device. Original drawings, construction photographs and style-reference images remain untouched.
+
+## Rendering credits
+
+The walkthrough uses the following material maps from Poly Haven:
+
+- [Terlenka](https://polyhaven.com/a/terlenka) — colormass (Photography), Rico Cilliers (Processing); [CC0-1.0](https://polyhaven.com/license).
+- [Walnut Veneer](https://polyhaven.com/a/walnut_veneer) — Jenelle van Heerden (All); [CC0-1.0](https://polyhaven.com/license).
+
+The interactive viewer includes Three.js under the MIT license. Full notices are included in Third-party-license.txt.
